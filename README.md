@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AlexanderC04
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, PHP and SQL
+- I’m @AlexanderC04
+- I’m interested in Web Development
 
 <!---
 AlexanderC04/AlexanderC04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
